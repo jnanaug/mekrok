@@ -1,0 +1,22 @@
+{
+  "short_name": "mekrok-mining-equipment",
+  "name": "mekrok-mining-equipment",
+  "icons": [
+    {
+      "src": "/assets/mekrok-logo-oval.jpg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/mekrok-logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

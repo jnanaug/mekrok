@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 100" width="160" height="100">
+  <defs>
+    <clipPath id="ovalClip">
+      <ellipse cx="80" cy="50" rx="78" ry="48" />
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" fill="transparent" />
+  <image href="/assets/mekrok-logo.jpg" x="0" y="0" width="160" height="100" preserveAspectRatio="xMidYMid slice" clip-path="url(#ovalClip)"/>
+</svg>
+
+
